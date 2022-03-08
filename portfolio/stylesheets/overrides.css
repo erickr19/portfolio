@@ -1,4 +1,30 @@
 /* overrides file that contains*/
+
+/* custom font */
 .font-palanquin {
     font-family: "Palanquin Dark", sans-serif;
+}
+
+/* font size */
+.fs-custom-48 {
+    font-size: 48px;
+}
+/* colors */
+
+/* background color */
+.bg-aliceblue {
+    color: aliceblue;
+}
+
+/* text color */
+a:hover {
+    color: #45ABF2;
+}
+
+.text-coolblue {
+    color: #45ABF2;
+}
+
+.text-purple {
+    color: #6064BD;
 }
