@@ -6,8 +6,16 @@
 }
 
 /* font size */
-.fs-custom-48 {
+.fs-custom-header {
     font-size: 48px;
+}
+
+.fs-custom-header-2 {
+    font-size: 36px;
+}
+
+.fs-custom-text {
+    font-size: 18px;
 }
 /* colors */
 
